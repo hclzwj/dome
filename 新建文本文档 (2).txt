@@ -1,0 +1,7 @@
+console.log(11111111111111);
+       for(var i in this.showingProductList){
+              if(this.showingProductList[i].Price_Group_Name==index){
+                  indexx=i;
+                  break;
+                 }
+            }
